@@ -1,0 +1,31 @@
+{
+  "name": "metalsmith-paginate-deux",
+  "version": "0.0.1",
+  "description": "A metalsmith paginate with a slightly different flair.",
+  "main": "build/lib/index.js",
+  "scripts": {
+    "test": "node_modules/cult/index.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leeolayvar/metalsmith-paginate-deux"
+  },
+  "keywords": [
+    "metalsmith",
+    "paginate"
+  ],
+  "author": "leeolayvar (http://leeo.la)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeolayvar/metalsmith-paginate-deux/issues"
+  },
+  "homepage": "https://github.com/leeolayvar/metalsmith-paginate-deux",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "cult": "^1.1.0",
+    "gulp": "^3.6.2",
+    "gulp-coffee": "^1.4.2",
+    "mocha": "^1.18.2",
+    "metalsmith": "^0.7.0"
+  }
+}
